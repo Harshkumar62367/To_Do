@@ -11,7 +11,7 @@ To_Do list is one of the most important tool to help us in organising our task. 
 
 <h2 align="center">Hosted</h2>
 
-This project is hosted on Github Pages and can be accesed [here](https://github.com/Harshkumar62367/To_Do/deployments/activity_log?environment=github-pages).
+This project is hosted on Github Pages and can be accesed [here](https://harshkumar62367.github.io/To_Do/).
 
 
 
